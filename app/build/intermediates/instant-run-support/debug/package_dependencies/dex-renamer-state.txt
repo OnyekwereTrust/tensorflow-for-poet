@@ -1,0 +1,4 @@
+#Tue Mar 24 20:22:31 WAT 2020
+base.0=/home/tjah/tf-demo/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/10
+renamed.0=classes.dex
+file.0=/home/tjah/tf-demo/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex
